@@ -1,0 +1,59 @@
+[
+    {
+        "category": "tech",
+        "title": "네이버 기술블로그",
+        "date": "2023-04-29",
+        "company": "NAVER",
+        "link": "https://d2.naver.com/home",
+        "rss": "https://d2.naver.com/d2.atom" 
+    }, 
+    {
+        "category": "tech",
+        "title": "카카오 기술블로그",
+        "date": "2023-04-29",
+        "company": "KAKAO",
+        "link": "https://tech.kakao.com/blog/",
+        "rss": "https://tech.kakao.com/feed/" 
+    },
+    {
+        "category": "tech",
+        "title": "라인 기술블로그",
+        "date": "2023-04-29",
+        "company": "LINE",
+        "link": "https://engineering.linecorp.com/ko/blog",
+        "rss": "https://engineering.linecorp.com/ko/feed/index.html" 
+    },
+    {
+        "category": "tech",
+        "title": "쿠팡 기술블로그",
+        "date": "2023-04-29",
+        "company": "COUPANG",
+        "link": "https://medium.com/coupang-engineering/kr/home",
+        "rss": "https://medium.com/feed/coupang-engineering"
+        
+    },
+    {
+        "category": "tech",
+        "title": "우하한형제들 기술블로그",
+        "date": "2023-04-29",
+        "company": "우하한형제들",
+        "link": "https://techblog.woowahan.com/",
+        "rss": "https://d2.naver.com/home" 
+    },
+    {
+        "category": "tech",
+        "title": "당근마켓 기술블로그",
+        "date": "2023-04-29",
+        "company": "당근마켓",
+        "link": " https://medium.com/daangn",
+        "rss": "https://medium.com/feed/daangn"
+    },
+    {
+        "category": "tech",
+        "title": "토스 기술블로그",
+        "date": "2023-04-29",
+        "company": "TOSS",
+        "link": " https://toss.tech/",
+        "rss": "https://toss.tech/rss.xml" 
+    }
+]
